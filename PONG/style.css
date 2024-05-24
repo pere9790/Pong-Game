@@ -1,0 +1,19 @@
+
+.playAgain{
+	color:white;
+    font-weight: bold;
+    /* The height and width are adjusted. */
+    height: 5vh;
+    width: 15vw;
+    /* Content and items are adjusted to the center.*/ 
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+    /* The apperance is changed to be rounded and with a display flex. The text is bolded and the colors are set.  */
+    background-color: black;
+    border-radius: 25px;
+    display: flex;
+    /*A box shadow is added to the button divs.  */
+    box-shadow: 0px 0px 5px 0px rgb(126, 126, 126);
+
+}
